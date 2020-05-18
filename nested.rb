@@ -21,7 +21,7 @@ end
  
 
 
-
+=begin
 
     
 
@@ -66,7 +66,7 @@ def dennis_ritchies_language
     #programmer_hash[:dennis_ritchie][:languages] = "C"
 
 end
-=begin
+
 def adding_matz
   programmer_hash = {
     :yukihiro_matsumoto => {
